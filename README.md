@@ -1,4 +1,4 @@
-This repository contains solutions to some famous questions related to the stack:
+This repository contains solutions of some famous questions related to the stack :
 
 1)Balanced Parentheses
 
