@@ -1,7 +1,9 @@
 This repository contains solutions to some famous questions related to the stack:
 
 1)Balanced Parentheses
+
 2)Convert Infix Expression into Postfix Expression
+
 3)Evaluate Postfix Expression
 
 These problems were given to me as a class assignment where we were supposed to work in teams of 4 members. 
